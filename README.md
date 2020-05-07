@@ -2,4 +2,5 @@
 
 # Examples: Style Transfer
 ### Labrador
-![Labrador]("/images/stylized_dog.png")
+![Labrador](https://i.imgur.com/lE6ZhYq.png)
+
